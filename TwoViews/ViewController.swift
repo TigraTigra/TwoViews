@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TwoViews
 //
-//  Created by DC on 29.04.2023.
+//  Created by Pavel Mazurenko on 29.04.2023.
 //
 
 import UIKit
